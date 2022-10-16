@@ -1,0 +1,5 @@
+.navbarContainer {
+    height:48px;
+    align-items:flex-start;
+    flex-direction:row;
+}
